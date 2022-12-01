@@ -1,4 +1,4 @@
 # checkers-
 This is a checkers game I made!
 
-To play, just download this folder and then open the Checkers!.jar file. :)
+To play, download the "Checkers" file and import project in Eclipse/other 
