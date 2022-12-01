@@ -1,0 +1,2 @@
+Checkers Stats
+GamesWon: 0 redWon: 0 blackWon: 0
