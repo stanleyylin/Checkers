@@ -17,4 +17,6 @@ https://user-images.githubusercontent.com/88297063/216270135-dcef377a-c89f-4950-
 
 # To play:
 
-To play, download this repository download the "Checkers" file and import project into any IDE!
+To play, download this repository download the "Checkers" folder.
+Then import project the into any IDE and run Checkers.java!
+Enjoy!
