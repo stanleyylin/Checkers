@@ -2,7 +2,7 @@
 
 # Checkers
 
-Relax with a game of Checkers! 
+Relax with a game of ***Checkers***! 
 
 ☕️ Coded from scratch in Java, this is a fully-implemented, 2-player Checkers game that features...
 
@@ -13,7 +13,7 @@ Relax with a game of Checkers!
 5. Crowning & multi-capturing! 👑
 
 # Demo!
-Sound on 🔈!
+Sound on 🔈! Music is the Pizza Parlour Theme from Club Penguin (Charlie's Here) :)
 
 https://user-images.githubusercontent.com/88297063/216270135-dcef377a-c89f-4950-820b-ef3394fedb4d.mov
 
