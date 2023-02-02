@@ -13,6 +13,8 @@ Relax with a game of Checkers!
 5. Crowning & multi-capturing! 👑
 
 # Demo!
+Sound on 🔈!
+
 https://user-images.githubusercontent.com/88297063/216270135-dcef377a-c89f-4950-820b-ef3394fedb4d.mov
 
 # To play:
